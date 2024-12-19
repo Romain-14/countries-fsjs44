@@ -1,0 +1,19 @@
+{
+  "name": "01-countries",
+  "version": "1.0.0",
+  "description": "Mettre en place une application avec express et une vue.",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  },
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.21.2"
+  }
+}
